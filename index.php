@@ -243,6 +243,11 @@ Registrar Clientes
 </a>
 
 </p>
+<section>
+<h2>Promociones</h2>
+
+    <div id="promociones"></div>
+</section>
 </body>
 
 </html>
