@@ -245,7 +245,7 @@ Registrar Clientes
 </p>
 <section>
 <h2>Promociones</h2>
-
+</html>
     <div id="promociones"></div>
 </section>
 </body>
